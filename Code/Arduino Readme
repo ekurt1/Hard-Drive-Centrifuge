@@ -1,0 +1,4 @@
+Code is based on the previous work and Arduino servo/ESC controller platform
+
+An Arduino Uno was used, with a Hobby King 20A UBEC ESC.  
+A 1k pot was used as the analog input, but that will be repalced with a proper dial.
