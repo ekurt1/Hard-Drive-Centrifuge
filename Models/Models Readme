@@ -1,0 +1,5 @@
+All models were created from the original in Solidworks. The files exported to STL are based in "mm."
+
+Printing for prototypes was originally done on a Prusa i3 clone, but then changed to my department's Lulzbot Taz6 printers.
+Of materials, PLA gave the best results, followed by HIPS, and then ABS and nGen (neither good for high speed).  
+Required >50% infill to sustain high speeds when under load.
