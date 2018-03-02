@@ -1,0 +1,4 @@
+Here are some photos of the prototype and current for of the centrifuge.
+
+The board being used is a STEMTera Breadboard my lab had lying around, but the goal would be to have all main components 
+(display, dial, buttons) on a single sheild for a standard Arduino.
